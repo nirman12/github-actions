@@ -13,8 +13,6 @@ Is it just another CI/CD tool?
 
 Why is the setup easier?
     Integration with other technologies is important
-    
-
-    */ 
+*/ 
 
  
